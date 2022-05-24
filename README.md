@@ -8,4 +8,4 @@ Please use the Seoul Bike dataset.<br>
 - Explore the data for outliers and missing values.<br>
 - Plot the correlation between the variables and state your comments<br>
 - Please build a linear regression model to predict rented bike count by choosing appropriate independentvariables.<br>
--Coment on Model performance by using approapriate diagnostics and measures.
+- Coment on Model performance by using approapriate diagnostics and measures.
